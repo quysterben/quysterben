@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm QuyHS</h1>
+<h1 align="center">Hi 👋, I'm Quy</h1>
 <h3 align="center">An IT student from Vietnam</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quysterben" alt="quysterben" /></a> </p>
